@@ -1,4 +1,4 @@
-# Main codes: active_polymer_adsorption.f
+# README
 
 Langevin dynamics simulation of end-grafted active polymer chain. It was written in Fortran 90. Detailed simulation methods can be found in the following cites:
 
@@ -10,6 +10,7 @@ Langevin dynamics simulation of end-grafted active polymer chain. It was written
 
 
 ## Usage：
+
 Windows:  active_polymer_adsorption.exe 
 
 Linux:     ./active_polymer_adsorption.X 
