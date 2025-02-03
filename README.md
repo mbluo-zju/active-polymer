@@ -14,7 +14,7 @@ Windows:  active_polymer_adsorption.exe
 
 Linux:     ./active_polymer_adsorption.X 
 
-## Format of input file “parameters_input.txt”
+## Format of input file "parameters_input.txt"
 
 ```
 'n65k0f2Dr3s3'	output file names
@@ -54,7 +54,7 @@ Every energy has its own conformation file with suffix 00xx
 
 Format:
 ```
-“Eps”  “mean-square end-to-end distance R^2”  “surface normal component of mean-square end-to-end distance R^2_z”  “mean-square radius of gyration R_G^2”  “surface normal component of mean-square radius of gyration R_G^2_z”  “mean height of mass center of polymer chain z_c”  “mean bond length”  “two-dimensional shape parameter A_2D”  “mean number of adsorbed monomer M”   “mean square M”   “mean interaction energy between polymer and surface E”   “mean square E”
+"Eps"  "mean-square end-to-end distance R^2"  "surface normal component of mean-square end-to-end distance R^2_z"  "mean-square radius of gyration R_G^2"  "surface normal component of mean-square radius of gyration R_G^2_z"  "mean height of mass center of polymer chain z_c"  "mean bond length"  "two-dimensional shape parameter A_2D"  "mean number of adsorbed monomer M"   "mean square M"   "mean interaction energy between polymer and surface E"   "mean square E"
 ```
  
 ### Conformation file:
